@@ -1,7 +1,7 @@
 🕹️ Paulo Gosik
 
 - 🔭 Working at Cloud Humans
-- 💬 Curso Engenharia de Software na ULBRA.
-- 🌐 Saiba mais das minhas competências no meu [LinkedIn!](https://www.linkedin.com/in/paulogosik/)
-- 📫 Entre em contato comigo pelo e-mail: paulogosikmoita@gmail.com
-- ⚡ Sempre buscando minha evolução!
+- 💬 Majoring in Software Engineering at CEULP ULBRA.
+- 🌐 Get to know me more at my [LinkedIn!](https://www.linkedin.com/in/paulogosik/)
+- 📫 Contact me by email: paulogosikmoita@gmail.com
+- ⚡ Always chasing my evolution!
